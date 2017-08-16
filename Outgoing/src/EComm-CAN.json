@@ -1,0 +1,11 @@
+[
+{
+  "category": "Orders",
+  "subcategory": ["Scheduled Orders","Released Orders",
+                    "Order Variance","Tax Count"]
+},
+{
+ "category": "Holds",
+  "subcategory": ["AVS Holds","Fraud Holds"]
+}
+]

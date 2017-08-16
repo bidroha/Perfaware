@@ -1,0 +1,11 @@
+[
+{
+  "category": "Orders",
+  "subcategory": ["Zero Dollar Orders","Scheduled Orders","Released Orders",
+                    "Shipment Confirmation Received"]
+},
+{
+ "category": "Order Diffs",
+  "subcategory": ["PayPal / Gift Cards","Credit Cards"]
+}
+]

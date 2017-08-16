@@ -1,0 +1,28 @@
+<div class="sidebar" >
+    
+    <br/>
+    <br/>
+
+    <ul class="list-group">
+        <a  class="list-group-item" *ngFor="let Major of Menu">
+            {{Major.menuname}}
+        </a>
+        
+        <a  class="list-group-item">
+            Major Category
+        </a>    
+    </ul>
+
+    <div class="panel-group">
+        <div class="panel-heading">
+            <a  class="list-group-item" *ngFor="let Major of Menu">
+                {{Major.menuname}}
+            </a>
+    
+            <a  class="list-group-item">
+                Major Category
+            </a>
+        </div>
+    </div>
+
+</div>
